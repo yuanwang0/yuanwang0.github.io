@@ -13,7 +13,7 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
+ #   gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 end
+gem 'jekyll-scholar', group: :jekyll_plugins
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
