@@ -22,7 +22,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 end
-gem 'jekyll-scholar', group: :jekyll_plugins
+#gem 'jekyll-scholar', group: :jekyll_plugins
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'

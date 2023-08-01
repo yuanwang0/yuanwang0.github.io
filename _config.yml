@@ -153,8 +153,8 @@ plugins:
 #scholar:
 #  style: modern-language-association
 
-plugins: ['jekyll/scholar']
-plugins_dir: [jekyll-scholar]
+#plugins: ['jekyll/scholar']
+#plugins_dir: [jekyll-scholar]
 
 # Sitemap settings
 defaults:
