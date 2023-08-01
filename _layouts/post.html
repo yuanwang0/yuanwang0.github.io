@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default --- {%- assign year = page.date | date: "%Y" -%} {%- assign tags = page.tags | join: "" -%} {%- assign categories = page.categories | join: "" -%} {% if page._styles %} {% endif %}</span></p>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
+<p class="p3"><span class="s1">{{ page.date | date: "%B %-d, %Y" }}{%- if page.author -%} â€¢ {{ page.author }}{%- endif -%}{%- if page.meta -%} â€¢ {{ page.meta }}{%- endif -%}</span></p>
+<p class="p3"><span class="s2"><a href="file:///Users/yuanwang/Documents/GitHub/yuanwang0.github.io/_layouts/%7B%7B%20year%20%7C%20prepend:%20'/blog/'%20%7C%20prepend:%20site.baseurl%7D%7D">{{ year }} </a></span><span class="s1">{%- if tags != "" %}   ·   {% for tag in page.tags -%} <a href="file:///Users/yuanwang/Documents/GitHub/yuanwang0.github.io/_layouts/%7B%7B%20tag%20%7C%20prepend:%20'/blog/tag/'%20%7C%20prepend:%20site.baseurl%7D%7D"><span class="s2">{{ tag }}</span></a>   {% endfor -%} {% endif %} {%- if categories != "" %}   ·   {% for category in page.categories -%} <a href="file:///Users/yuanwang/Documents/GitHub/yuanwang0.github.io/_layouts/%7B%7B%20category%20%7C%20prepend:%20'/blog/category/'%20%7C%20prepend:%20site.baseurl%7D%7D"><span class="s2">{{ category }}</span></a>   {% endfor -%} {% endif %}</span></p>
+<p class="p1"><span class="s1">{{ content }}</span></p>
+<p class="p1"><span class="s1">{%- if site.disqus_shortname and page.comments -%}</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt; {%- endif %}</span></p>
+</body>
+</html>
