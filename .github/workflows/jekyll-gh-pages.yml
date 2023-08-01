@@ -27,7 +27,7 @@ jobs:
         cp CNAME _site/CNAME
     - name: Deploy
       env:
-      GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       run: |
         set -xo pipefail
         git config --local user.email "action@github.com"
@@ -38,6 +38,6 @@ jobs:
         rm -rf _site
         rm -rf .jekyll-cache
         [[ -n "$(git status --porcelain)" ]] || exit 0
-       git add .
-       git commit -m "Build $(git rev-parse source | grep -o '^.\{10\}')"
-    git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master
+        git add .
+        git commit -m "Build $(git rev-parse source | grep -o '^.\{10\}')"
+        git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master
