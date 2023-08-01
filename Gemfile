@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'jekyll', "~> 4.0"
-#    gem "github-pages", "~> 228"
+#    gem 'jekyll', "~> 4.0"
+    gem "github-pages", "~> 228"
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
@@ -13,7 +13,7 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar', "~> 6.8.1"
+    gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
