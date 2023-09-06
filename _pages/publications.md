@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 > #### <a href="https://speedi.princeton.edu/analysis/create/">Automated single cell omics end-to-end analysis framework with data-driven batch inference</a>
-**Yuan Wang**<p>&#42;, William Thistlethwaite<p>&#42;, Alicja Tadych, Frederique Ruf-Zamojski, ..., Xi Chen†, Stuart C Sealfon4†, Olga G. Troyanskaya†.
+**Yuan Wang**&#42;, William Thistlethwaite&#42;, Alicja Tadych, Frederique Ruf-Zamojski, ..., Xi Chen†, Stuart C Sealfon4†, Olga G. Troyanskaya†.
 **Manuscript in preparation**. Try out the interactive web server here <a href="https://speedi.princeton.edu/analysis/create/">https://speedi.princeton.edu/analysis/create/</a>.
 
 > #### <a href="https://doi.org/10.1038/s43588-023-00476-5">Mapping disease regulatory circuits at cell-type resolution from single-cell multiomics data</a>
