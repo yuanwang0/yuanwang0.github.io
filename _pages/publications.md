@@ -7,9 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-> #### <a href="https://speedi.princeton.edu/analysis/create/">Automated single cell omics end-to-end analysis framework with data-driven batch inference</a>
-**Yuan Wang**&#42;, William Thistlethwaite&#42;, Alicja Tadych, Frederique Ruf-Zamojski, ..., Xi Chen†, Stuart C Sealfon4†, Olga G. Troyanskaya†.
-**Manuscript in preparation**. Try out the interactive web server here <a href="https://speedi.princeton.edu/analysis/create/">https://speedi.princeton.edu/analysis/create/</a>.
+> #### <a href="https://doi.org/10.1101/2023.11.01.564815">Automated single cell omics end-to-end analysis framework with data-driven batch inference</a>
+**Yuan Wang**&#42;, William Thistlethwaite&#42;, Alicja Tadych, Frederique Ruf-Zamojski, ..., Xi Chen†, Stuart C Sealfon†, Olga G. Troyanskaya†.
+**BioRxiv**. Try out the interactive web server here <a href="https://speedi.princeton.edu/analysis/create/">https://speedi.princeton.edu/analysis/create/</a>.
+
+> #### <a href="">Programming brain-sensing T cells to deliver therapeutic payloads to the central nervous system</a>
+Milos S Simic&#42;, Payal B Watchmaker&#42;, Sasha Gupta, **Yuan Wang**, ..., Schott S Zamvil†, Hideho Okada†, Wendell A Lim†.
+**Under Review**.
 
 > #### <a href="https://doi.org/10.1038/s43588-023-00476-5">Mapping disease regulatory circuits at cell-type resolution from single-cell multiomics data</a>
 Xi Chen, **Yuan Wang**, Antonio Cappuccio, Wan-Sze Cheng, ..., Vance G Fowler Jr, Christopher W Woods, Elena Zaslavsky, Olga G Troyanskaya, Stuart C Sealfon.
