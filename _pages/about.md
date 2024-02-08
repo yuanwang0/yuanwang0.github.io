@@ -12,7 +12,6 @@ subtitle: >
   Princeton University<br>
   <a href = "mailto: yuanwang@cs.princeton.edu">Email</a>: yuanwang@cs.princeton.edu<br>
   <a href = "mailto: yuanwang@princeton.edu">Alternative email</a>: yuanwang@princeton.edu<br>
-//  <a href = "https://drive.google.com/file/d/173zLlOZZRD3zP7H8iIiiq5TPG07DMbjN/view?usp=sharing"><b>Curriculum Vitae</b></a><br>
   </center>
   </p>
 
