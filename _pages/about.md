@@ -5,14 +5,14 @@ permalink: /
 subtitle: >
   <p>
   <center>
-  <b>Ph.D. Candidate</b>
+  <b>Ph.D. in Computer Science</b>
   <img src="PU-standard.png" width="30" height="40">
   <br>
   Department of Computer Science<br>
   Princeton University<br>
   <a href = "mailto: yuanwang@cs.princeton.edu">Email</a>: yuanwang@cs.princeton.edu<br>
   <a href = "mailto: yuanwang@princeton.edu">Alternative email</a>: yuanwang@princeton.edu<br>
-  <a href = "https://drive.google.com/file/d/173zLlOZZRD3zP7H8iIiiq5TPG07DMbjN/view?usp=sharing"><b>Curriculum Vitae</b></a><br>
+//  <a href = "https://drive.google.com/file/d/173zLlOZZRD3zP7H8iIiiq5TPG07DMbjN/view?usp=sharing"><b>Curriculum Vitae</b></a><br>
   </center>
   </p>
 
