@@ -11,9 +11,9 @@ nav_order: 2
 **Yuan Wang**&#42;, William Thistlethwaite&#42;, Alicja Tadych, Frederique Ruf-Zamojski, ..., Xi Chen†, Stuart C Sealfon†, Olga G. Troyanskaya†.
 **BioRxiv**. 2023 Oct. Try out the interactive web server here <a href="https://speedi.princeton.edu/analysis/create/">https://speedi.princeton.edu/analysis/create/</a>.
 
-> #### <a href="">Programming brain-sensing T cells to deliver therapeutic payloads to the central nervous system</a>
+> #### <a href="">Programming T cells to deliver therapeutic payloads</a>
 Milos S Simic&#42;, Payal B Watchmaker&#42;, Sasha Gupta, **Yuan Wang**, ..., Schott S Zamvil†, Hideho Okada†, Wendell A Lim†.
-**Under Review**. 2023 Oct.
+**In Review**. 2023 Oct.
 
 > #### <a href="https://doi.org/10.1038/s43588-023-00476-5">Mapping disease regulatory circuits at cell-type resolution from single-cell multiomics data</a>
 Xi Chen, **Yuan Wang**, Antonio Cappuccio, Wan-Sze Cheng, ..., Vance G Fowler Jr, Christopher W Woods, Elena Zaslavsky, Olga G Troyanskaya, Stuart C Sealfon.
